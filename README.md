@@ -1,4 +1,4 @@
 # night-and-day
 
 Try it here:
-https://github.com/nicoleemmanuelle/night-and-day.git
+https://nicoleemmanuelle.github.io/night-and-day/
